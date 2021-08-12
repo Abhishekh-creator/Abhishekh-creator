@@ -44,10 +44,6 @@
 
 <br/>
 
-<img src="https://github.com/Abhishekh-creator" width="350" align='right'>
-
-
-
 <br><br>
 
 
