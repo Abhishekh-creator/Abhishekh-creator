@@ -16,18 +16,15 @@
 
 <h3>🛠 Tech Stack</h3>
 
-
-
 - 💻 HTML | CSS | JavaScript | Tailwind | ReactJS | Node.js
 
 <!--
 
-
 - 🔧 &nbsp; Git 
-
 
 -->
 
+📫 How to reach me: sharmaab275@gmail.com
 
 
 <h3>🛠 To Learn</h3>
@@ -48,7 +45,7 @@
 
 <img src="https://github.com/Abhishekh-creator" width="350" align='right'>
 
-![Top Langs](https://github.com/Abhishekh-creator)
+
 
 <br><br>
 
