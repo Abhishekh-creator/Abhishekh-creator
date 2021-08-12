@@ -8,9 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🎓 &nbsp; Studying Web development.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
