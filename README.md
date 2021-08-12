@@ -24,7 +24,6 @@
 
 -->
 
-📫 How to reach me: sharmaab275@gmail.com
 
 
 <h3>🛠 To Learn</h3>
@@ -33,6 +32,8 @@
 
 <hr>
 
+
+📫 How to reach me: sharmaab275@gmail.com
 
 
 <br/><br/>
